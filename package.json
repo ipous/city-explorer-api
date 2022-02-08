@@ -1,0 +1,26 @@
+{
+  "name": "city-explorer-api",
+  "version": "1.0.0",
+  "description": "Ians city explorer api for Code 301",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipous/city-explorer-api.git"
+  },
+  "author": "Ian Pous",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ipous/city-explorer-api/issues"
+  },
+  "homepage": "https://github.com/ipous/city-explorer-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^15.0.1",
+    "express": "^4.17.2",
+    "npm": "^8.4.0",
+    "start": "^5.1.0"
+  }
+}

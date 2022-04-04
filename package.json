@@ -1,21 +1,21 @@
 {
   "name": "city-explorer-api",
   "version": "1.0.0",
-  "description": "mccalls city explorer app for 301",
+  "description": "Ian's city explorer app for 301",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/woodwardem/city-explorer-api.git"
+    "url": "git+https://github.com/ipous/city-explorer-api.git"
   },
-  "author": "mccall woodward",
+  "author": "Ian Pous",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/woodwardem/city-explorer-api/issues"
+    "url": "https://github.com/ipous/city-explorer-api/issues"
   },
-  "homepage": "https://github.com/woodwardem/city-explorer-api#readme",
+  "homepage": "https://github.com/ipous/City-Explorer/blob/main/README.md",
   "dependencies": {
     "axios": "^0.26.0",
     "cors": "^2.8.5",
